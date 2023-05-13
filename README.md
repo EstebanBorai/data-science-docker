@@ -1,7 +1,4 @@
 <div>
-  <div align="center" style="display: block; text-align: center;">
-    <img src="./assets/logo.svg" height="120" width="120" />
-  </div>
   <h1 align="center">Docker Data Science Setup</h1>
   <h4 align="center">A template for DataScience projects with Docker</h4>
 </div>
