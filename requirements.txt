@@ -4,3 +4,4 @@ notebook==6.5.4
 numpy==1.24.3
 pandas==2.0.1
 seaborn==0.12.2
+scikit-learn==1.2.2
