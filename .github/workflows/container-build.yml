@@ -1,0 +1,12 @@
+name: Container Build
+on: pull_request
+
+jobs:
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Builds Docker Image
+        run: docker compose build notebook
+
+      - name: Stops Containers
+        run: docker compose down

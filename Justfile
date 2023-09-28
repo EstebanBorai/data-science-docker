@@ -1,4 +1,4 @@
-run:
+dev:
   docker compose up notebook
 
 build:
