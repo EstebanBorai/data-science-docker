@@ -1,11 +1,11 @@
 <div>
-  <h1 align="center">Docker Data Science Setup</h1>
-  <h4 align="center">A template for DataScience projects with Docker</h4>
+  <h1 align="center">Docker Machine Learning</h1>
+  <h4 align="center">A template for Machine Learning projects with Docker</h4>
 </div>
 
 ## Motivation
 
-Spin up Data Science projects with ease, avoiding a virtual environment
+Spin up Machine Learning projects with ease, avoiding a virtual environment
 setup by using Docker, extending compatibility for collaboration by having
 a operative system agnostic environment.
 
@@ -16,6 +16,9 @@ Build an run containers using `docker compose`
 ```bash
 docker compose up --build notebook
 ```
+
+> Using `Justfile` this is a matter of running `just build` and from
+> there on `just dev`
 
 After working you can release resources using:
 
