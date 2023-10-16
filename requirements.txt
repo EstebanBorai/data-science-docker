@@ -2,7 +2,7 @@ h5py == 3.9.0
 jupyter == 1.0.0
 keras == 2.14.0
 matplotlib == 3.7.2
-notebook == 7.0.4
+notebook == 7.0.5
 numpy == 1.26.1
 pandas == 2.0.1
 pillow == 10.0.1
