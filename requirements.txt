@@ -1,6 +1,6 @@
 h5py == 3.10.0
 jupyter == 1.0.0
-keras == 2.14.0
+keras == 3.0.2
 matplotlib == 3.8.0
 notebook == 7.0.4
 numpy == 1.26.1
