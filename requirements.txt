@@ -6,7 +6,7 @@ matplotlib == 3.8.1
 notebook == 7.1.1
 numpy == 1.26.1
 pandas == 2.2.0
-pillow == 10.0.1
+pillow == 10.1.0
 pyarrow == 15.0.2
 seaborn == 0.13.1
 scikit-learn == 1.4.0
