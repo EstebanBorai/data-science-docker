@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Docker Machine Learning</h1>
-  <h4 align="center">A template for Machine Learning projects with Docker</h4>
+  <h1 align="center">Data Science Docker</h1>
+  <h4 align="center">A template for Data Science projects with Docker</h4>
 </div>
 
 ## Motivation
